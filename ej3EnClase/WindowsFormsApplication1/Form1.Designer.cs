@@ -117,6 +117,7 @@
             this.btn3.TabIndex = 8;
             this.btn3.Text = "final";
             this.btn3.UseVisualStyleBackColor = true;
+            this.btn3.Click += new System.EventHandler(this.btn3_Click);
             // 
             // Form1
             // 

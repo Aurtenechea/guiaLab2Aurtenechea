@@ -48,5 +48,16 @@ namespace WindowsFormsApplication1
 
             MessageBox.Show(varInt.ToString());
         }
+
+        private void btn3_Click(object sender, EventArgs e)
+        {
+            float varInt = float.Parse(txtBox1.Text);
+            varInt += float.Parse(txtBox2.Text);
+            varInt += float.Parse(txtBox3.Text);
+
+            varInt += 0.21 * varIO
+
+            MessageBox.Show(varInt.ToString());
+        }
     }
 }
