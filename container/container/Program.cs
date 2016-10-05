@@ -10,9 +10,11 @@ namespace container
     // operador is, gettyoe, typeof... 
 
     // casteo directo para centralita ((local) item).nombreMetodo
+
+
     // temas parcial
-    // como se crea un constructor, correctos e incorrectos identificar.
-    // sobrecarga de operadores implicito y explicito.
+    // como se crea un constructor, correctos e incorrectos identificar. *
+    // sobrecarga de operadores implicito y explicito. 
     // arrays crear y recorrer.
     // metodo de instancia y estatico.. utilizacion del this.
     // constructores static..
