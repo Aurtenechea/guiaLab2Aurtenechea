@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using progIImodeloParcial;
+using progIImodeloParcial; //incluye todo lo de este namespace dentro del namespace TestPrimerParcial o algo asi.
 
 namespace TestPrimerParcial
 {
